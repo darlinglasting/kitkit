@@ -18,6 +18,6 @@ If you want something added, fixed, or anything else, feel free to DM me.
 
 <div align="center">
 
-— @darlinglasting
+@darlinglasting
 
 </div>
