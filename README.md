@@ -5,6 +5,8 @@
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python\&logoColor=white)
 ![Platform](https://img.shields.io/badge/platform-Windows-informational?logo=windows\&logoColor=white)
 
+</div>
+
 ---
 
 ## What is KitKit?
