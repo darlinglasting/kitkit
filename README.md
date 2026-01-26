@@ -11,14 +11,6 @@
 
 ---
 
-<div align="center">
-
-**lookup • dns • scanner • pinger**
-
-</div>
-
----
-
 ## What is KitKit?
 
 KitKit is a small Windows network tool I made back when I was into ddos related stuff.
