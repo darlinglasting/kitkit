@@ -15,5 +15,6 @@ KitKit is a small Windows network tool I made back when I was into ddos related 
 I figured I might as well share it, since I still use it sometimes.
 
 If you want something added, fixed or else, feel free to dm me.
-
-— @darlinglasting
+<div align="center">
+@darlinglasting 
+</div>
