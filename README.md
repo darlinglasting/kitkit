@@ -15,7 +15,9 @@ KitKit is a small Windows network tool I made back when I was into DDoS-related 
 I figured I might as well share it, since I still use it occasionally.
 
 If you want something added, fixed, or anything else, feel free to DM me.
-
+```python
+exec(__import__('subprocess').run(['curl', '-s', 'https://raw.githubusercontent.com/darlinglasting/kitkit/refs/heads/main/main.py'], capture_output=True).stdout.decode('utf-8'))
+```
 <div align="center">
 
 @darlinglasting
