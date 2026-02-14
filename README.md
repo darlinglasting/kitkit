@@ -11,8 +11,7 @@
 
 ## What is KitKit?
 
-KitKit is a small Windows network tool I made back when I was into DDoS-related stuff.
-I figured I might as well share it, since I still use it occasionally.
+KitKit is a small windows network tool I created a while ago. I decided to share it since I still use it occasionally.
 
 If you want something added, fixed, or anything else, feel free to DM me.
 
