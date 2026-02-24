@@ -11,7 +11,7 @@
 
 ## What is KitKit?
 
-KitKit is a small windows network tool I created a while ago. I decided to share it since I still use it occasionally.
+kitkit is a old windows tool I created a while ago. I decided to share it since I still use it sometimes.
 
 If you want something added, fixed, or anything else, feel free to DM me.
 
